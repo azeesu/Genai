@@ -1,0 +1,17 @@
+Which activation function is used in the final layer of the generator model?--tanh
+
+ best describes the role of the generator in a GAN?- produces images
+
+What is used to refine the models during training?- Adam optimizer
+
+In the discriminator's code, which layer helps in reducing the dimensions of the input image-- Conv2D with strides
+
+In the generator code, what is the purpose of the Reshape layer?--To reshape the dense layer into a 3D tensor for images
+
+Which technique can help in dealing with training instability in GANs-- gradiant chipping
+
+Which architecture can help address convergence issues in traditional GANs- WGAN
+
+During training, what does the generator use to improve itself- feedback from discriminator
+
+
