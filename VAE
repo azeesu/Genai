@@ -1,0 +1,6 @@
+VAE--Variational Autoencoders
+
+Which component of the VAE loss function ensures the latent variables adhere to a standard distribution?
+KL divergence
+
+VAE-- NEW APPLICATION--or generating new, coherent samples?---Designing virtual fashion items
