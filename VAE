@@ -4,3 +4,11 @@ Which component of the VAE loss function ensures the latent variables adhere to 
 KL divergence
 
 VAE-- NEW APPLICATION--or generating new, coherent samples?---Designing virtual fashion items
+
+
+Autoencoder -- is like librarian whoese task isto summarise the books -- reades the summry card and describes the book
+
+VAE is with standard rules in the summary so that anyone can understand the book--> foreces to fall standed normal distribution
+
+Autoencoder vs vae 
+vae is well formated and shows some meaningful data
